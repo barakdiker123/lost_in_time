@@ -1,0 +1,17 @@
+#+title: Lost In Time
+* Lost In Time Book development [1/2]
+This series is written by Michal Diker
+
+- [X] letora book 1
+- [ ] letora book 1
+  
+
+* Lost In time book 1
+[[./lost_in_time_cover.jpeg]]
+* Lost in time book 2 
+
+[[./lost_in_time_2_book.jpeg]]
+
+
+
+
